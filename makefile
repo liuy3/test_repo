@@ -4,7 +4,7 @@
 ##
 
 # Application name
-APPL ?= serial_output
+APPL ?= led_breathe
 
 # Optimization Level
 # Please Refer to toolchain_xxx.mk for this option
